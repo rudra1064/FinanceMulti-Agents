@@ -1,12 +1,11 @@
-💡 Project Overview
-This Finance Advisor mimics the workflow of a human financial analyst — but faster, more consistent, and always updated.
-Using multi-agent AI coordination with Groq’s ultra-fast inference, it can:
+# 💡 Project Overview
+## This Finance Advisor mimics the workflow of a human financial analyst — but faster, more consistent, and always updated. Using multi-agent AI coordination with Groq’s ultra-fast inference, it can:
 
-Search the web for the latest news
+1) Search the web for the latest news
 
-Fetch real-time stock market data
+2) Fetch real-time stock market data
 
-Analyze trends and sentiment
+3) Analyze trends and sentiment
 
-Deliver clear buy/hold/sell recommendations instantly
+4) Deliver clear buy/hold/sell recommendations instantly
 
